@@ -28,8 +28,23 @@ Shaan & Aidan - ~2 hours
 	* conveyor printer
 	* dual feed printer
 	* printer on a vex drivetrain
-	* infinite z-axis printer
+	* infinite z-axis printer (prints itself higher)
 	* 4 axis
 	* modular build volume
 	* portable printer
 * will hopefully settle on an idea tomorrow to get started :)
+
+3/1/2025-3/2/2025
+-
+Shaan & Aidan - ~6 hours
+* decided on 5-axis coreXY based printer
+* developed implementation:
+  	* rectangular exoframe (ie. voron 2)
+  	* coreXY printhead movement
+  	* dual lead screw z-axis (for supporting axes 4 and 5)
+  	* 4th axis is rotating build plate mount left/right using a central pivot at the back and belt reduction (or gears) to a stepper to tilt the entire plate 45deg either direction while leaving the most build plate area
+  	* 5th axis is tilting the plate back and forward from a stepper on a belt below so the plate is on the plane created by the two pivots (less slicer math) and the motor is below
+  	* each axis can be locked out with a pin to allow for max accuracy in prints where the 4th or 5th axis isn't required
+* other features:
+  	* bltouch-style auto leveling (would be near impossible to get the bed calibrated without). Instead of like in a normal printer, where the sensor is brought to points on a stationary plate, this would go to the center and get the ideal height for each axis (because it's all in plane so center never changes), then go to each corner and rotate the plate in each direction until it hit that height, ensuring a proper centering for the 4th and 5th axis
+  	* idk some other qol stuff like filament runout 
