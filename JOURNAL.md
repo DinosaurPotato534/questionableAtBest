@@ -1,9 +1,9 @@
 Made by: @dinosaurpotato (shaan) & @justaglitchfl (aidan) & @castoway (dimitri)
 Repository link: https://github.com/DinosaurPotato534/printer
 Total hours so far:
-Shaan: 13
-Aidan: 13
-Dimitri: 
+Shaan: 16
+Aidan: 16
+Dimitri: 3
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -50,4 +50,16 @@ Shaan & Aidan - ~6 hours
   	* each axis can be locked out with a pin to allow for max accuracy in prints where the 4th or 5th axis isn't required
 * other features:
   	* bltouch-style auto leveling (would be near impossible to get the bed calibrated without). Instead of like in a normal printer, where the sensor is brought to points on a stationary plate, this would go to the center and get the ideal height for each axis (because it's all in plane so center never changes), then go to each corner and rotate the plate in each direction until it hit that height, ensuring a proper centering for the 4th and 5th axis
-  	* idk some other qol stuff like filament runout 
+  	* idk some other qol stuff like filament runout
+ 
+3/15/2025
+-
+Shaan & Aidan & Dimitri- ~3 hours
+* Dimitri joined the squad
+* redesigned the 4th and 5th axis for the printer
+ 	* there will now be three lead screws for the z-axis, which with the combination of movements can control the 4th and 5th axis
+   	* the print bed will be similar to a delta printer with 3 linear slide being able to pull each corner down to tilt the bed
+   	* auto bed leveling will work by having 2 of the lead screws moving, thus only tilting one axis
+* decided on this new design because of the complexity of having a bed and it's 4th axis being mounted to the 5th axis and all of that needing to be moved up and down
+* decided on the name for this project to be "Questionable at Best"
+
