@@ -1,9 +1,9 @@
 Made by: @dinosaurpotato (shaan) & @justaglitchfl (aidan) & @castoway (dimitri)
 Repository link: https://github.com/DinosaurPotato534/printer
 Total hours so far:
-Shaan: 16
+Shaan: 20
 Aidan: 16
-Dimitri: 3
+Dimitri: 10
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
@@ -62,4 +62,18 @@ Shaan & Aidan & Dimitri- ~3 hours
    	* auto bed leveling will work by having 2 of the lead screws moving, thus only tilting one axis
 * decided on this new design because of the complexity of having a bed and it's 4th axis being mounted to the 5th axis and all of that needing to be moved up and down
 * decided on the name for this project to be "Questionable at Best"
+
+3/22/2025
+-
+Dimitri ~3 hours
+*gained a fusion 360 student acount
+*began to practice using fusion(had prior experience with OnShape)
+
+3/23/2025
+- 
+Dimitri & Shaan ~4 hours
+*researched necesssary electronics for 5 axis printer
+*figured out we would need 6 stepper motors(2 corexy, 3 zed, 1 filament)
+	*forces us to use a motherboard capable of having this many motors
+*began researching on how autobed leveling would work
 
