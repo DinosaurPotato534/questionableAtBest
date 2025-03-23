@@ -66,7 +66,7 @@ Shaan & Aidan & Dimitri- ~3 hours
 3/22/2025
 -
 Dimitri ~3 hours
-* gained a fusion 360 student acount
+* gained a fusion 360 student account
 * began to practice using fusion(had prior experience with OnShape)
 
 3/23/2025
