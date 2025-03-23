@@ -66,14 +66,14 @@ Shaan & Aidan & Dimitri- ~3 hours
 3/22/2025
 -
 Dimitri ~3 hours
-*gained a fusion 360 student acount
-*began to practice using fusion(had prior experience with OnShape)
+* gained a fusion 360 student acount
+* began to practice using fusion(had prior experience with OnShape)
 
 3/23/2025
 - 
 Dimitri & Shaan ~4 hours
-*researched necesssary electronics for 5 axis printer
-*figured out we would need 6 stepper motors(2 corexy, 3 zed, 1 filament)
-	*forces us to use a motherboard capable of having this many motors
-*began researching on how autobed leveling would work
+* researched necesssary electronics for 5 axis printer
+* figured out we would need 6 stepper motors(2 corexy, 3 zed, 1 filament)
+	* forces us to use a motherboard capable of having this many motors
+* began researching on how autobed leveling would work
 
