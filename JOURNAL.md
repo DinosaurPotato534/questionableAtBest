@@ -75,5 +75,6 @@ Dimitri & Shaan ~4 hours
 * researched necesssary electronics for 5 axis printer
 * figured out we would need 6 stepper motors(2 corexy, 3 zed, 1 filament)
 	* forces us to use a motherboard capable of having this many motors
+   	* we need a raspberry pi with klipper for the kinematics of a moving bed
 * began researching on how autobed leveling would work
 
