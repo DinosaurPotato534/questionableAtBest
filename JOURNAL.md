@@ -78,3 +78,12 @@ Dimitri & Shaan ~4 hours
    	* we need a raspberry pi with klipper for the kinematics of a moving bed
 * began researching on how autobed leveling would work
 
+3/24/2025
+-
+Dimitri ~5 hours
+Shaan ~3 hours
+* began to fully find exact electronics that we would be using
+  	* found a motherboard cabable of having 6 stepper motor drivers
+  	* decided on using a raspberry pi 4 for klipper installation
+* figured out that autobed leveling would work by adjusting each of the z motor until it is flat
+* found some previous examples of how the linear slides for 5 axis function
