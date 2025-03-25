@@ -1,9 +1,9 @@
 Made by: @dinosaurpotato (shaan) & @justaglitchfl (aidan) & @castoway (dimitri)
 Repository link: https://github.com/DinosaurPotato534/printer
 Total hours so far:
-Shaan: 20
+Shaan: 23
 Aidan: 16
-Dimitri: 10
+Dimitri: 15
 
 - [x] I have a 3D printer or will be getting one before March 21st
 
